@@ -14,7 +14,7 @@
   <table>
     <tr>
       <td>💻</td>
-      <td><strong>Passionate about creating responsive web applications with modern technologies</strong></td>
+      <td><strong>Passionate about creating fullstack web applications with modern technologies</strong></td>
     </tr>
     <tr>
       <td>🎓</td>
