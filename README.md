@@ -14,7 +14,7 @@
   <table>
     <tr>
       <td>💻</td>
-      <td><strong>Passionate about creating fullstack web applications with modern technologies</strong></td>
+      <td><strong>Passionate about creating responsive web applications with modern technologies</strong></td>
     </tr>
     <tr>
       <td>🎓</td>
@@ -27,6 +27,10 @@
     <tr>
       <td>🚀</td>
       <td><strong>1+ year of experience developing fullstack projects</strong></td>
+    </tr>
+    <tr>
+      <td>💼</td>
+      <td><strong>Currently working at AULA STEAM (Bogotá Campus) as Student Assistant at Universidad Nacional de Colombia</strong></td>
     </tr>
     <tr>
       <td>🎯</td>
